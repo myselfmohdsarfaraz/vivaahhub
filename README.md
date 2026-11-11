@@ -9,7 +9,7 @@ This milestone connects the redesigned frontend to a Node.js/Express API and Sup
 - Customer booking/enquiry requests stored in PostgreSQL
 - Vendor dashboard to view enquiries and accept/decline pending requests
 - Row Level Security (RLS) policies for profiles, listings and bookings
-
+this also solve the problem of booking of marriage hall
 ## Requirements
 - Node.js 20+
 - VS Code (recommended)
